@@ -49,7 +49,7 @@ body {
   align-items: center;
 }
 
-.nav ul li {
+.nav a {
   color: #fff;
   padding: .5em;
   border-radius: 1em;
